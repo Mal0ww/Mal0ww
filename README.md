@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mal0ww
+- 👋 Hi, I’m Michael Nascimento
 - 👀 I’m interested in Hardware and data science
 - 🌱 I’m currently learning Assembly, JavaScript and HTML.
 - 💞️ I’m looking to collaborate on ...
